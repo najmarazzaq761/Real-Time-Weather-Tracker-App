@@ -1,6 +1,7 @@
+# Real-Time Weather Tracker App
+Try live demo here : https://real-time-weather-tracker.streamlit.app/
 
 https://github.com/user-attachments/assets/b6e69117-e0f1-4a3d-9563-822bcaa41261
-# Real-Time Weather Tracker App
 
 This is a simple web application that provides real-time weather updates for any city using data from the OpenWeatherMap API. The app allows users to input a city name and get information like the current temperature, wind speed, humidity, and more.
 
